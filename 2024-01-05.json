@@ -1,0 +1,15 @@
+{
+  "date": "2024-01-05",
+  "generated_at_utc": "2026-02-01T00:35:02Z",
+  "news": {
+    "total_articles": 0,
+    "by_source": {},
+    "published_at_utc_min": null,
+    "published_at_utc_max": null
+  },
+  "prices": {
+    "total_tickers": 2,
+    "tickers_with_data": 2,
+    "missing_tickers": []
+  }
+}

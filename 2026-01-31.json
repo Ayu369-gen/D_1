@@ -1,0 +1,20 @@
+{
+  "date": "2026-01-31",
+  "generated_at_utc": "2026-02-01T00:35:15Z",
+  "news": {
+    "total_articles": 22,
+    "by_source": {
+      "Hacker News": 22
+    },
+    "published_at_utc_min": "2026-01-31T09:30:05Z",
+    "published_at_utc_max": "2026-01-31T22:05:03Z"
+  },
+  "prices": {
+    "total_tickers": 2,
+    "tickers_with_data": 0,
+    "missing_tickers": [
+      "AAPL",
+      "MSFT"
+    ]
+  }
+}
